@@ -7,7 +7,7 @@ package:
 source:
   fn: pyosp-{{ version }}.tar.gz
   url: https://github.com/PyOSP-devs/PyOSP/archive/v{{ version }}.tar.gz
-  sha256: f86d41d6a0e8409b3221f37d5c1ba3807cf197fcaff22e40b9bcd408deb3dd2d 
+  sha256: e0244aa7cdd251f5cf79e9a66d6fcf9c01f759e0cb95241895482f65bc1a5afa 
 
 build:
   noarch: python
