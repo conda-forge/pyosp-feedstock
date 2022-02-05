@@ -1,4 +1,4 @@
-{% set version = "0.1.6" %}
+{% set version = "0.1.7" %}
 
 package:
   name: pyosp
@@ -7,7 +7,7 @@ package:
 source:
   fn: pyosp-{{ version }}.tar.gz
   url: https://github.com/PyOSP-devs/PyOSP/archive/v{{ version }}.tar.gz
-  sha256: b3e8140346785e573bc378ca07f4c4f922f7edbbee4ecac96df5ffe9ec25133d 
+  sha256: eaf1398438d68c9a831f4512985a25d139391ccc447ccfd000c3c96cca24b2c4 
 
 build:
   noarch: python
